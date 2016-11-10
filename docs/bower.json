@@ -1,0 +1,20 @@
+{
+  "name": "docs",
+  "homepage": "https://github.com/surrealist/app02",
+  "authors": [
+    "Suthep Sangvirotjanaphat <suthep@gfbd.co.th>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
